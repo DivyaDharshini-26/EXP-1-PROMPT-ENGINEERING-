@@ -12,6 +12,7 @@ Generative AI impact of scaling in LLMs.
 ## Algorithm:
 
 ## Output
+;
 
 ## Result
 
